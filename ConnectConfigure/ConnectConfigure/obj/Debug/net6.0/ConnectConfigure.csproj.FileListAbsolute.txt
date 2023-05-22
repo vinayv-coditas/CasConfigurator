@@ -1,0 +1,5 @@
+C:\CasConfigurator\ConnectConfigure\ConnectConfigure\obj\Debug\net6.0\ConnectConfigure.csproj.AssemblyReference.cache
+C:\CasConfigurator\ConnectConfigure\ConnectConfigure\obj\Debug\net6.0\ConnectConfigure.GeneratedMSBuildEditorConfig.editorconfig
+C:\CasConfigurator\ConnectConfigure\ConnectConfigure\obj\Debug\net6.0\ConnectConfigure.AssemblyInfoInputs.cache
+C:\CasConfigurator\ConnectConfigure\ConnectConfigure\obj\Debug\net6.0\ConnectConfigure.AssemblyInfo.cs
+C:\CasConfigurator\ConnectConfigure\ConnectConfigure\obj\Debug\net6.0\ConnectConfigure.csproj.CoreCompileInputs.cache
